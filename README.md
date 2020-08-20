@@ -1,4 +1,4 @@
-Done as a project for my academic course of Machine Learning.
+Done as a project for my academic course on Machine Learning.
 
 This contains two folder:
 
